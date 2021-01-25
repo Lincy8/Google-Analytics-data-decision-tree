@@ -1,0 +1,2 @@
+# Google-Analytics-data-decision-tree
+The sample dataset contains obfuscated Google Analytics 360 data from the Google Merchandise Store , a real e-commerce store. The Google Merchandise Store sells Google-branded merchandise. The data is typical of what you would see for an e-commerce website. It includes the following kinds of information: Traffic source data: information about where website visitors originate. This includes data about organic traffic, paid search traffic, display traffic, etc.
